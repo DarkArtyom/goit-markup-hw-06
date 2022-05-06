@@ -677,7 +677,7 @@ img {
 
 /*---------- footer-subscribe ---------*/
 .subsсribe-footer {
-  margin-left: 93px;
+  margin-left: auto;
 }
 
 .footer-form {
@@ -727,6 +727,7 @@ img {
   line-height: 1.8;
   margin: 0;
   letter-spacing: 0.06em;
+  border: none;
 
   color: #ffffff;
   background: #2196f3;
@@ -1055,6 +1056,10 @@ img {
 
 .policy {
   margin-left: 3px;
+  line-height: 1.7;
+  text-decoration-line: underline;
+
+  color: #2196f3;
 }
 
 .modal-submit-button {
@@ -1071,6 +1076,7 @@ img {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
+  border: none;
 }
 
 .modal-button-case {
