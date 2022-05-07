@@ -944,7 +944,6 @@ img {
 /* -----modal-field------ */
 
 .modal-field {
-  margin-top: 4px;
   margin-bottom: 10px;
 }
 
@@ -960,6 +959,7 @@ img {
 .input-form {
   width: 100%;
   height: 40px;
+  margin-top: 4px;
   padding-left: 42px;
   border: 1px solid rgba(33, 33, 33, 0.2);
 
